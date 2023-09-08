@@ -73,15 +73,4 @@ The code provided in `index.js` demonstrates how to use the `connect-busboy` mid
 - **Form Interface**:
 
   The root endpoint `/` displays an HTML form for file uploads.
-
-### Example Code
-
-The provided code in `index.js` is ready to run and serves as a working example. Make sure to adapt the code to your specific needs.
-
-## Contributing
-
-Feel free to contribute to this project by submitting pull requests or reporting issues.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+-----------------------------------
